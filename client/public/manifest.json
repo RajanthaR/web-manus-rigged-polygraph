@@ -1,0 +1,22 @@
+{
+  "name": "The Rigged Polygraph",
+  "short_name": "Polygraph",
+  "description": "A biometric lie detector prank app",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#050505",
+  "theme_color": "#00F3FF",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/images/fingerprint-scanner.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/images/fingerprint-scanner.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
