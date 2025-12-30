@@ -104,3 +104,35 @@ temp/
 *.db
 *.sqlite
 *.sqlite3
+
+# Vite
+.vite/
+
+# Editor backups
+*.bak
+*.backup
+
+# OS temp files
+*.tmp
+*.temp
+
+# Package manager lock files (keeping only pnpm-lock.yaml)
+# npm
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Test coverage
+coverage/
+*.lcov
+
+# Storybook
+storybook-static/
+
+# Env files for deployment
+.env.staging
+.env.qa
+
+# Analytics and tracking
+analytics/
+umami.*
