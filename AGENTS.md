@@ -80,4 +80,4 @@ None beyond `PORT`/`NODE_ENV`. No `.env.example`.
 
 - Pure entertainment app: no database, no auth, no state beyond the session
 - Tilt detection needs a mobile device with orientation sensors; on desktop the verdict flow needs the fallback in `PolygraphScanner.tsx`
-- `Map.tsx` / `ManusDialog.tsx` are unused template leftovers
+- `Map.tsx` / `AppDialog.tsx` are unused template leftovers
