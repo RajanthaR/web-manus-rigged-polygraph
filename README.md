@@ -86,12 +86,7 @@ web-manus-rigged-polygraph/
 
 ## Environment Variables
 
-Create a `.env` file in the root directory:
-
-```env
-VITE_ANALYTICS_ENDPOINT=your-analytics-endpoint
-VITE_ANALYTICS_WEBSITE_ID=your-website-id
-```
+No `.env` file is required. The server reads only `PORT` (default: 3000) and `NODE_ENV`.
 
 ## How It Works
 
